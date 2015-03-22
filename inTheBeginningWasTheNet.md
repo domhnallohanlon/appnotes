@@ -22,11 +22,13 @@ The majority of tags that you will encounter are like quotation marks in that th
 
 <code data-gist-id="b362490ab6fb7d332aeb"></code>
 
+<a href="http://bl.ocks.org/domhnallohanlon/raw/ba92975e504d2cebd3c9/" class="btn btn-success pull-right" target="_blank">View This Example</a><br>
 
 
 
-The page above should look like the image below.
+<!-- The page above should look like the image below.
 ![example1](img/ex01.png "Hello World")
+ -->
 
 Let's take a look at this example in a bit more detail. The first and last line are for the opening and closing `<html>` tags. This tells the web browser that all the code it is about to read should be formatted as HTML code. 
 Next there are two sections that every page should have. The `<head>` and the `<body>`. 
@@ -53,9 +55,11 @@ HTML Tag    | Output
 
 ## Lists
 
+<code data-gist-id="be335a12f1e908fd74c4"></code>
+
+<a href="http://bl.ocks.org/domhnallohanlon/raw/be335a12f1e908fd74c4/" class="btn btn-success" target="_blank">View Example</a>
 ## Images
 
-<code data-gist-id="be335a12f1e908fd74c4"></code>
 
 
 self closing, placeholder, placekitten
