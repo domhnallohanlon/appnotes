@@ -21,9 +21,9 @@ Hypertext Markup Language (HTML) is a system for "marking up" a document. What d
 The majority of tags that you will encounter are like quotation marks in that there are opening tags and closing varieties. A HTML tag is any word that is surrounded by brackets like so: `<tagName>`. A closing tag differs slightly in that the tag name is preceeded by a forward slash like this: `</tagName>`. Here's a quick example to try which creates a very simple page with the words "Hello World" in big letters.
 
 <code data-gist-id="b362490ab6fb7d332aeb"></code>
-
-<a href="http://bl.ocks.org/domhnallohanlon/raw/ba92975e504d2cebd3c9/" class="btn btn-success pull-right" target="_blank">View This Example</a><br>
-
+    
+<a href="http://bl.ocks.org/domhnallohanlon/raw/ba92975e504d2cebd3c9/" class="text-success pull-right" target="_blank" role="button">Preview Example</a><br>
+<a href="https://gist.github.com/domhnallohanlon/ba92975e504d2cebd3c9/download" class="text-success pull-right">Download Code</a><br>
 
 
 <!-- The page above should look like the image below.
@@ -57,7 +57,9 @@ HTML Tag    | Output
 
 <code data-gist-id="be335a12f1e908fd74c4"></code>
 
-<a href="http://bl.ocks.org/domhnallohanlon/raw/be335a12f1e908fd74c4/" class="btn btn-success" target="_blank">View Example</a>
+<a href="http://bl.ocks.org/domhnallohanlon/raw/be335a12f1e908fd74c4/" class="text-success pull-right" target="_blank">Preview Example</a> <br>
+
+<a href="https://gist.github.com/domhnallohanlon/be335a12f1e908fd74c4/download" class="text-success pull-right">Download Code</a><br>
 ## Images
 
 
