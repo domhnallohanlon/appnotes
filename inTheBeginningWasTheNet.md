@@ -57,14 +57,36 @@ HTML Tag    | Output
 
 <code data-gist-id="be335a12f1e908fd74c4"></code>
 
-<a href="http://bl.ocks.org/domhnallohanlon/raw/be335a12f1e908fd74c4/" class="text-success pull-right" target="_blank">Preview Example</a> <br>
+<a href="http://bl.ocks.org/domhnallohanlon/raw/09bdd8a562a8f311a14b/" class="text-success pull-right" target="_blank">Preview Example</a> <br>
 
 <a href="https://gist.github.com/domhnallohanlon/be335a12f1e908fd74c4/download" class="text-success pull-right">Download Code</a><br>
 ## Images
 
+The image tag, `<img/>` is our first example of a self-closing tag, which means that there is no closing image tag. This makes sense since you typically wouldn't want to display text as an image, rather you would like to tell the web browser what image file it should display. 
 
+### Attributes
+The image tag is a good opportunity to introduce the concept of _attributes_. To display any image on screen we have to tell the image tag exactly which image file we want it to display. Files can be stored locally or on a remote server but in either case you have to specify the _source_ of the image. This is done by including a `src` attribute:
+`<img src=""/>` 
 
-self closing, placeholder, placekitten
+Please note the _value_ you give the `src` arrtibute must be the exact path to the file. The full location is written between the opening and closing quotation marks. If we want to display an image called phone.png, which is in the same directory as our HTML file then we'd type:
+`<img src="phone.png">`
+
+It is also considered best practice to include an `alt` tag. This attribute specifies the alternative text that should be displayed in the event that the image can not be displayed. You should try to make your alt text as descriptive as possible as it is also the information that is read by screen readers for people who have visual impairments. Using the phone example.
+
+`<img src="phone.png" alt="A picture of a smartphone">`
+
+In the sample code below you will notice that I have used a `height` attribute, which allows us to specify how tall the image should be. Similarly there is also a `width` tag, which tells the browser how wide the image should be on the screen. It is not generally considered best practice to resize images in this manner, but I have done it for the sake of introducing a few more attributes and because it makes the <a href="http://bl.ocks.org/domhnallohanlon/raw/9f9eeae17a26e2a3ba61/" target="_blank">preview </a> look better.
+
+### Sample Code
+
+The code snippet below uses a local image and two remote images to demonstrate how images can be include in an HTML document.
+
+<!-- gist with html only, no .png file -->
+<code data-gist-id="dd0b15e0e80894044620"></code>
+
+<a href="http://bl.ocks.org/domhnallohanlon/raw/9f9eeae17a26e2a3ba61/" class="text-success pull-right" target="_blank">Preview Example</a>
+<a href="https://gist.github.com/9f9eeae17a26e2a3ba61/domhnallohanlon/download" class="text-success pull-right">Download Code</a><br>
+
 ### Attributes
 src, alt
 
