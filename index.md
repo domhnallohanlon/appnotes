@@ -5,14 +5,21 @@
 
 #Course Outline
 
-## Week 1
+## Week 1: User Interface
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex possimus, ea, ullam debitis eos porro nemo labore itaque delectus culpa praesentium accusantium explicabo dignissimos cupiditate laudantium, esse quod sit atque!
+[HTML](#!inTheBeginningWasTheNet.md)
+[CSS](#!doingItWithStyle.md)
+[Colours](#colours.md)
+[Font Awesome](#fontawesome.md)
+[Google Fonts](#googlefonts.md)
+
+
 
 ## Week 2
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem enim aspernatur obcaecati dicta eius saepe nisi, quasi est reprehenderit, nostrum, earum labore sed harum sequi, repellat maiores facere rerum? Atque.
+Coming soon.
+
 
 ## Week 3
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus corporis, voluptates et eaque! Mollitia fugiat corrupti quo. Eos recusandae deserunt quod, officia officiis id placeat ullam temporibus atque repellendus odit.
+Coming soon.
