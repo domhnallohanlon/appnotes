@@ -8,10 +8,10 @@ The developers of the worlds first system of formatting information for dispaly 
 
 ## HTML 
 
-> Innovation is serendipity, so you don't know what people will make.
+> "Innovation is serendipity, so you don't know what people will make."
 > ~Sir Tim Berners-Lee
 
-Hypertext Markup Language (HTML) is a system for "marking up" a document. What does this mean? Well, it gives the data a context that a browser can understand. The concept of a HTML tag is not too far removed from the idea of using quotation marks in a piece of text. If you want to signify that someone has said something you surround it in quotation marks, such as "To be or not to be?". These symbols have special meaning for human readers as they imply that those specific words have been spoken out loud. Similarly, HTML uses a system of tags to confer meaning to information. It is from those tags the browser understands what it should do with that information. 
+Hypertext Markup Language (HTML) is a system for "marking up" a document. What does this mean? Well, it gives the data a context that a browser can understand. The concept of a HTML tag is not too far removed from the idea of using quotation marks in a piece of text. If you want to signify that someone has said something you surround it in quotation marks, such as "To be or not to be?" or the quote from Tim Berners-Lee above. These symbols have special meaning for human readers as they imply that those specific words have been spoken out loud. Similarly, HTML uses a system of tags to confer meaning to information. It is from those tags the browser understands what it should do with that information. 
 
 ## Markup Tags
 
