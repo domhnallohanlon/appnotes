@@ -11,3 +11,10 @@ When using hex to represent colour we use 6 bits of information. The first two b
 
 ## How many colours?
 Using 6 hexadecimal bits to create colours on a computer screen means that there are 256 possible red values, 256 possible greens and 256 possible blues. If we multiply all the different combinations together (256 x 256 x 256) we end up with over 16 million differnt colours: 16, 777, 216 to be precise! 
+
+## Generating Palettes
+
+There are lots of great resources that are freely available online for generating colour palettes for your applications. Here are a few of my favourites
+
+ - <a href="http://www.materialpalette.com/" target="_blank">Material Palette</a>
+ - <a href="http://coolors.co/" target="_blank">Coolors</a>
