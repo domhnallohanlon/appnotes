@@ -15,4 +15,4 @@ Modals are pop-up windows that appear in front of the content that is being view
 
 ## Small Modals
 
-  
+      
