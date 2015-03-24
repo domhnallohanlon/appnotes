@@ -5,6 +5,8 @@
 
 #Course Outline
 
+The sections roughly correspond to the material that is introduced each week, but with the additon of extra reading and links. In the Quickstart guides there are some helpful walk-throughs that should get you up and running quickly.
+
 ## Week 1: User Interface
 
 [HTML](#!inTheBeginningWasTheNet.md)
@@ -17,9 +19,19 @@
 
 ## Week 2
 
-Coming soon.
+[jQuery](#!jquery.md)
+[Toggles](#!toggles.md)
+[Modals](#!modals.md)
+[JSON](#!json.md)
 
 
 ## Week 3
 
 Coming soon.
+
+## Quickstart Guides
+
+[Sublime Text 2](#!sublime.md)
+[Bootstrap 3](#!bootstrap.md)
+[jQuery Mobile](jqm.md)
+[Phonegap](phonegap.md)
