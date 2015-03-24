@@ -1,12 +1,13 @@
 #Modals
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus sed culpa neque omnis aspernatur quidem incidunt, possimus quis quas vero dolores et assumenda, optio molestiae minus. Minus eum delectus quibusdam.
+Modals are pop-up windows that appear in front of the content that is being viewed. 
 
-## One
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis ducimus culpa autem unde ipsa iure voluptatum iusto minima, accusantium ab ipsum est, saepe voluptas laudantium enim, explicabo ex fugit. Fuga!
 
-## Two
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis ducimus culpa autem unde ipsa iure voluptatum iusto minima, accusantium ab ipsum est, saepe voluptas laudantium enim, explicabo ex fugit. Fuga!
+## Example
 
-## Three
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis ducimus culpa autem unde ipsa iure voluptatum iusto minima, accusantium ab ipsum est, saepe voluptas laudantium enim, explicabo ex fugit. Fuga!
+<code data-gist-id="d6931f6b18999cadf9e6"></code>
+
+<a href="http://bl.ocks.org/domhnallohanlon/raw/d6931f6b18999cadf9e6/" class="text-success pull-right" target="_blank">Preview Example</a>
+<br>
+<a href="https://gist.github.com/domhnallohanlon/d6931f6b18999cadf9e6/download" class="text-success pull-right">Download Code</a><br>
+          
