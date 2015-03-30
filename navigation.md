@@ -36,6 +36,8 @@
   * [Android](playstore.md)
   * [Kindle](amazon.md)
   * #iTunes
+  * #Chrome
+  * #Facebook
 
 [Quick Start Guides]()
 
@@ -44,6 +46,7 @@
  * [jQuery Mobile](jqm.md)
  * [Phonegap](phonegap.md)
  * [Links](links.md)
+ * [Ripple](ripple.md)
 
 
 [gimmick:theme (inverse:false)](flatly)
