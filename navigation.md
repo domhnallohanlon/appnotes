@@ -33,6 +33,7 @@
 [Week 3]()
 
   * # Publishing
+  * [Before You Publish](beforePublishing.md)
   * [Android](playstore.md)
   * [Kindle](amazon.md)
   * #iTunes
