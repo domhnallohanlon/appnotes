@@ -30,3 +30,6 @@ A few places where you can get free stock photography in the web.
 
 ## Web Fonts
 
+ - <a href="http://www.google.com/fonts" target="_blank">Google Fonts</a>
+ - <a href="http://femmebot.github.io/google-type/" target="_blank">Google Type</a> Some beautiful examples of how to pair Google fonts. 
+ - <a href="https://edgewebfonts.adobe.com/" target="_blank">Adobe Edge Web Fonts</a>
